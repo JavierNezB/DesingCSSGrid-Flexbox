@@ -47,3 +47,10 @@ Tendencias UI
  - Neomorfismo.
  - Layouts Asimetricos.
  - StoryTelling
+
+
+*Wireframes y comunicación visual simple*
+pasos:
+- Saber lo qué quiero.
+- Hacer un boceto (wireframe).
+- Pensar en la guía de estilos.
