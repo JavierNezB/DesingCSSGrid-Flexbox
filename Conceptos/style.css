@@ -1,0 +1,15 @@
+.block{
+    background: pink;
+    /*display: block;*/
+    display: inline;
+}
+.grid{
+    background: papayawhip;
+    /*display: grid;*/
+    display: inline-grid;
+}
+.flex{
+    background: paleturquoise;
+    /*display: flex;*/
+    display: inline-flex;
+}
