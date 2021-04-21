@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+    font-family: 'Antonio', sans-serif;
+}
+body{
+}
+.type-footer{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin: 15px;
+}
+.type-footer img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.palabritas p{
+    color: gray;
+}
+.ima-main{
+    max-width: 250px;
+    max-height: 150px;
+}
+.ima-main img{
+  width: 250px;
+  height: 150px;
+}
+.ultima{
+    max-width: 250px;
+}
+.parrafo-ultima{
+    margin: 10px;
+    max-width: 235px;
+    color: gray;
+}
+.ultima .actions-finales{
+    display: flex;
+    max-width: 235px;
+    justify-content: space-evenly;
+}
+.ultima .actions-finales img{
+    width: 10px;
+    height: 10px;
+}
+.ultima .actions-finales a, img{
+    margin: 5px;
+}
