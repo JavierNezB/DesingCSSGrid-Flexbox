@@ -24,3 +24,26 @@ Layout - RAM (Repeat, Auto, MinMax)
 Layout - Line Up
 Layout - Clamping My Style
 Layout - Respect for Aspect
+
+
+DESING SYSTEM
+colección de componentes reutilizables guiados por estándares claros.
+
+Colores, logo, encabezado, pies de paginas,formularios etc.
+  -Bit
+
+Principios:
+ - Jerarquía
+ - Contraste
+ - Proximidad
+ - Balance
+
+Tendencias UI
+ - Ilustraciones animadas.
+ - Micro Interacciones.
+ - 3D.
+ - Realidad Virtual.
+ - Realidad Aumentada.
+ - Neomorfismo.
+ - Layouts Asimetricos.
+ - StoryTelling
